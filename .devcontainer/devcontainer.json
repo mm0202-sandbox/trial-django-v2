@@ -1,6 +1,6 @@
 // See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
-    "name": "no name",
+    "name": "trial-django-v2",
     "dockerComposeFile": [
       "../docker-compose.yml",
       "docker-compose.extend.yml"
